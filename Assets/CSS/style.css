@@ -73,8 +73,14 @@ hr {
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
     background-color: #ffffff;
 }
 .article_padding {
     padding: 20px;
+}
+.port_img {
+    height: 300px;
+    width: 300px;
+    margin: 30px;
 }
